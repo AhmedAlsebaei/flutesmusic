@@ -1,0 +1,531 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D0F904C263AF36A006AFFB9 /* 01. Amr Diab - Ya Ana Ya La.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F904B263AF36A006AFFB9 /* 01. Amr Diab - Ya Ana Ya La.mp3 */; };
+		1D0F9075263AF41A006AFFB9 /* Lessa Bahnelha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F9074263AF41A006AFFB9 /* Lessa Bahnelha.mp3 */; };
+		1D0F9078263AF42D006AFFB9 /* ya fatenna.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F9077263AF42D006AFFB9 /* ya fatenna.mp3 */; };
+		1D0F908A263AF48B006AFFB9 /* hadal ahbek.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F9087263AF48B006AFFB9 /* hadal ahbek.mp3 */; };
+		1D0F908B263AF48B006AFFB9 /* ya ghali.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F9088263AF48B006AFFB9 /* ya ghali.mp3 */; };
+		1D0F908C263AF48B006AFFB9 /* ya ashekat el ward.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F9089263AF48B006AFFB9 /* ya ashekat el ward.mp3 */; };
+		1D0F9096263AF50E006AFFB9 /* 11. Amr Diab - Mahsoud (Oriental Remix).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F908E263AF50D006AFFB9 /* 11. Amr Diab - Mahsoud (Oriental Remix).mp3 */; };
+		1D0F9097263AF50E006AFFB9 /* 02. Amr Diab - Mahsoud.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F908F263AF50D006AFFB9 /* 02. Amr Diab - Mahsoud.mp3 */; };
+		1D0F9098263AF50E006AFFB9 /* 09. Amr Diab - Ya Dalaao.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F9090263AF50D006AFFB9 /* 09. Amr Diab - Ya Dalaao.mp3 */; };
+		1D0F9099263AF50E006AFFB9 /* 10. Amr Diab - Min El Aasham.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F9091263AF50D006AFFB9 /* 10. Amr Diab - Min El Aasham.mp3 */; };
+		1D0F909A263AF50E006AFFB9 /* 04. Amr Diab - Ayez Aamel Zayak.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F9092263AF50D006AFFB9 /* 04. Amr Diab - Ayez Aamel Zayak.mp3 */; };
+		1D0F909B263AF50E006AFFB9 /* 06. Amr Diab - Bethazr.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F9093263AF50D006AFFB9 /* 06. Amr Diab - Bethazr.mp3 */; };
+		1D0F909C263AF50E006AFFB9 /* 12. Amr Diab - El Gaw Gameel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F9094263AF50D006AFFB9 /* 12. Amr Diab - El Gaw Gameel.mp3 */; };
+		1D0F909D263AF50E006AFFB9 /* 03. Amr Diab - Shokran.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F9095263AF50E006AFFB9 /* 03. Amr Diab - Shokran.mp3 */; };
+		1D0F90A3263AF538006AFFB9 /* Amr Diab - Tehayrk عمرو دياب - تحيرك (192 kbps).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F909F263AF538006AFFB9 /* Amr Diab - Tehayrk عمرو دياب - تحيرك (192 kbps).mp3 */; };
+		1D0F90A4263AF538006AFFB9 /* Amr Diab - Youm Talat عمرو دياب - يوم تلات (192 kbps).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90A0263AF538006AFFB9 /* Amr Diab - Youm Talat عمرو دياب - يوم تلات (192 kbps).mp3 */; };
+		1D0F90A5263AF538006AFFB9 /* Amr Diab - Odam Merayetha عمرو دياب - قدام مرايتها (192 kbps).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90A1263AF538006AFFB9 /* Amr Diab - Odam Merayetha عمرو دياب - قدام مرايتها (192 kbps).mp3 */; };
+		1D0F90A6263AF538006AFFB9 /* Amr Diab - Bahebo عمرو دياب - بحبه (192 kbps).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90A2263AF538006AFFB9 /* Amr Diab - Bahebo عمرو دياب - بحبه (192 kbps).mp3 */; };
+		1D0F90B1263AF5C0006AFFB9 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90A8263AF5C0006AFFB9 /* background.png */; };
+		1D0F90B2263AF5C0006AFFB9 /* carla.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90A9263AF5C0006AFFB9 /* carla.jpg */; };
+		1D0F90B3263AF5C0006AFFB9 /* rola.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90AA263AF5C0006AFFB9 /* rola.jpeg */; };
+		1D0F90B4263AF5C0006AFFB9 /* backgound2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90AB263AF5C0006AFFB9 /* backgound2.jpeg */; };
+		1D0F90B5263AF5C0006AFFB9 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90AC263AF5C0006AFFB9 /* 2.jpg */; };
+		1D0F90B6263AF5C0006AFFB9 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90AD263AF5C0006AFFB9 /* 1.jpg */; };
+		1D0F90B7263AF5C0006AFFB9 /* rami.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90AE263AF5C0006AFFB9 /* rami.jpeg */; };
+		1D0F90B8263AF5C0006AFFB9 /* s.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90AF263AF5C0006AFFB9 /* s.JPG */; };
+		1D0F90B9263AF5C0006AFFB9 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90B0263AF5C0006AFFB9 /* 3.png */; };
+		1D0F90BF263AF61E006AFFB9 /* playy-removebg-preview.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90BC263AF61E006AFFB9 /* playy-removebg-preview.png */; };
+		1D0F90C0263AF61E006AFFB9 /* pause12-removebg-preview.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90BD263AF61E006AFFB9 /* pause12-removebg-preview.png */; };
+		1D0F90D2263AF707006AFFB9 /* right.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90D1263AF707006AFFB9 /* right.png */; };
+		1D0F90D6263AF712006AFFB9 /* pngfind.com-cirlce-png-1391483 copy 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90D5263AF712006AFFB9 /* pngfind.com-cirlce-png-1391483 copy 2.png */; };
+		1D0F90D9263B00E0006AFFB9 /* song.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D0F90D8263B00E0006AFFB9 /* song.swift */; };
+		1D0F90DC263B085F006AFFB9 /* titlecell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D0F90DB263B085F006AFFB9 /* titlecell.swift */; };
+		1D0F90E0263B141D006AFFB9 /* PlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D0F90DF263B141D006AFFB9 /* PlayerViewController.swift */; };
+		1D0F90E5263B29CF006AFFB9 /* right2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90E3263B29CF006AFFB9 /* right2.png */; };
+		1D0F90E6263B29CF006AFFB9 /* leftt.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90E4263B29CF006AFFB9 /* leftt.png */; };
+		1D0F90EA263B8A01006AFFB9 /* نسمه محجوب - يامحروسه _ Nesma Mahgoub - Ya Mahrosa (192 kbps).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90E9263B8A01006AFFB9 /* نسمه محجوب - يامحروسه _ Nesma Mahgoub - Ya Mahrosa (192 kbps).mp3 */; };
+		1D0F90ED263B8A09006AFFB9 /* nessma mahgoub.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1D0F90EC263B8A09006AFFB9 /* nessma mahgoub.jpeg */; };
+		1D3F926A263A59B30035679F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3F9269263A59B30035679F /* AppDelegate.swift */; };
+		1D3F926C263A59B30035679F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3F926B263A59B30035679F /* SceneDelegate.swift */; };
+		1D3F926E263A59B30035679F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3F926D263A59B30035679F /* ViewController.swift */; };
+		1D3F9271263A59B30035679F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D3F926F263A59B30035679F /* Main.storyboard */; };
+		1D3F9273263A59B40035679F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D3F9272263A59B40035679F /* Assets.xcassets */; };
+		1D3F9276263A59B40035679F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D3F9274263A59B40035679F /* LaunchScreen.storyboard */; };
+		1D60757D263C7C0700D91845 /* sectioncell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D60757C263C7C0700D91845 /* sectioncell.swift */; };
+		1DC00920263BAC6B002F16F5 /* 3-02--removebg-preview (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 1DC0091F263BAC6B002F16F5 /* 3-02--removebg-preview (1).png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D0F904B263AF36A006AFFB9 /* 01. Amr Diab - Ya Ana Ya La.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "01. Amr Diab - Ya Ana Ya La.mp3"; path = "../../../../Downloads/Amr Diab - Ya Ana Ya La - 2020/01. Amr Diab - Ya Ana Ya La.mp3"; sourceTree = "<group>"; };
+		1D0F9074263AF41A006AFFB9 /* Lessa Bahnelha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Lessa Bahnelha.mp3"; path = "../../../../Downloads/Lessa Bahnelha.mp3"; sourceTree = "<group>"; };
+		1D0F9077263AF42D006AFFB9 /* ya fatenna.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ya fatenna.mp3"; path = "../../../../Downloads/ya fatenna.mp3"; sourceTree = "<group>"; };
+		1D0F9087263AF48B006AFFB9 /* hadal ahbek.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "hadal ahbek.mp3"; path = "../../../../Downloads/hadal ahbek.mp3"; sourceTree = "<group>"; };
+		1D0F9088263AF48B006AFFB9 /* ya ghali.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ya ghali.mp3"; path = "../../../../Downloads/ya ghali.mp3"; sourceTree = "<group>"; };
+		1D0F9089263AF48B006AFFB9 /* ya ashekat el ward.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ya ashekat el ward.mp3"; path = "../../../../Downloads/ya ashekat el ward.mp3"; sourceTree = "<group>"; };
+		1D0F908E263AF50D006AFFB9 /* 11. Amr Diab - Mahsoud (Oriental Remix).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "11. Amr Diab - Mahsoud (Oriental Remix).mp3"; path = "../../../../Downloads/Amr Diab - Ya Ana Ya La - 2020/11. Amr Diab - Mahsoud (Oriental Remix).mp3"; sourceTree = "<group>"; };
+		1D0F908F263AF50D006AFFB9 /* 02. Amr Diab - Mahsoud.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "02. Amr Diab - Mahsoud.mp3"; path = "../../../../Downloads/Amr Diab - Ya Ana Ya La - 2020/02. Amr Diab - Mahsoud.mp3"; sourceTree = "<group>"; };
+		1D0F9090263AF50D006AFFB9 /* 09. Amr Diab - Ya Dalaao.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "09. Amr Diab - Ya Dalaao.mp3"; path = "../../../../Downloads/Amr Diab - Ya Ana Ya La - 2020/09. Amr Diab - Ya Dalaao.mp3"; sourceTree = "<group>"; };
+		1D0F9091263AF50D006AFFB9 /* 10. Amr Diab - Min El Aasham.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "10. Amr Diab - Min El Aasham.mp3"; path = "../../../../Downloads/Amr Diab - Ya Ana Ya La - 2020/10. Amr Diab - Min El Aasham.mp3"; sourceTree = "<group>"; };
+		1D0F9092263AF50D006AFFB9 /* 04. Amr Diab - Ayez Aamel Zayak.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "04. Amr Diab - Ayez Aamel Zayak.mp3"; path = "../../../../Downloads/Amr Diab - Ya Ana Ya La - 2020/04. Amr Diab - Ayez Aamel Zayak.mp3"; sourceTree = "<group>"; };
+		1D0F9093263AF50D006AFFB9 /* 06. Amr Diab - Bethazr.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "06. Amr Diab - Bethazr.mp3"; path = "../../../../Downloads/Amr Diab - Ya Ana Ya La - 2020/06. Amr Diab - Bethazr.mp3"; sourceTree = "<group>"; };
+		1D0F9094263AF50D006AFFB9 /* 12. Amr Diab - El Gaw Gameel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "12. Amr Diab - El Gaw Gameel.mp3"; path = "../../../../Downloads/Amr Diab - Ya Ana Ya La - 2020/12. Amr Diab - El Gaw Gameel.mp3"; sourceTree = "<group>"; };
+		1D0F9095263AF50E006AFFB9 /* 03. Amr Diab - Shokran.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "03. Amr Diab - Shokran.mp3"; path = "../../../../Downloads/Amr Diab - Ya Ana Ya La - 2020/03. Amr Diab - Shokran.mp3"; sourceTree = "<group>"; };
+		1D0F909F263AF538006AFFB9 /* Amr Diab - Tehayrk عمرو دياب - تحيرك (192 kbps).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Amr Diab - Tehayrk عمرو دياب - تحيرك (192 kbps).mp3"; path = "../../../../Downloads/Amr Diab - Tehayrk عمرو دياب - تحيرك (192 kbps).mp3"; sourceTree = "<group>"; };
+		1D0F90A0263AF538006AFFB9 /* Amr Diab - Youm Talat عمرو دياب - يوم تلات (192 kbps).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Amr Diab - Youm Talat عمرو دياب - يوم تلات (192 kbps).mp3"; path = "../../../../Downloads/Amr Diab - Youm Talat عمرو دياب - يوم تلات (192 kbps).mp3"; sourceTree = "<group>"; };
+		1D0F90A1263AF538006AFFB9 /* Amr Diab - Odam Merayetha عمرو دياب - قدام مرايتها (192 kbps).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Amr Diab - Odam Merayetha عمرو دياب - قدام مرايتها (192 kbps).mp3"; path = "../../../../Downloads/Amr Diab - Odam Merayetha عمرو دياب - قدام مرايتها (192 kbps).mp3"; sourceTree = "<group>"; };
+		1D0F90A2263AF538006AFFB9 /* Amr Diab - Bahebo عمرو دياب - بحبه (192 kbps).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Amr Diab - Bahebo عمرو دياب - بحبه (192 kbps).mp3"; path = "../../../../Downloads/Amr Diab - Bahebo عمرو دياب - بحبه (192 kbps).mp3"; sourceTree = "<group>"; };
+		1D0F90A8263AF5C0006AFFB9 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = background.png; path = ../../../../Downloads/background.png; sourceTree = "<group>"; };
+		1D0F90A9263AF5C0006AFFB9 /* carla.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = carla.jpg; path = ../../../../Downloads/carla.jpg; sourceTree = "<group>"; };
+		1D0F90AA263AF5C0006AFFB9 /* rola.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = rola.jpeg; path = ../../../../Downloads/rola.jpeg; sourceTree = "<group>"; };
+		1D0F90AB263AF5C0006AFFB9 /* backgound2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = backgound2.jpeg; path = ../../../../Downloads/backgound2.jpeg; sourceTree = "<group>"; };
+		1D0F90AC263AF5C0006AFFB9 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 2.jpg; path = ../../../../Downloads/2.jpg; sourceTree = "<group>"; };
+		1D0F90AD263AF5C0006AFFB9 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 1.jpg; path = ../../../../Downloads/1.jpg; sourceTree = "<group>"; };
+		1D0F90AE263AF5C0006AFFB9 /* rami.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = rami.jpeg; path = ../../../../Downloads/rami.jpeg; sourceTree = "<group>"; };
+		1D0F90AF263AF5C0006AFFB9 /* s.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = s.JPG; path = ../../../../Downloads/s.JPG; sourceTree = "<group>"; };
+		1D0F90B0263AF5C0006AFFB9 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 3.png; path = ../../../../Downloads/3.png; sourceTree = "<group>"; };
+		1D0F90BC263AF61E006AFFB9 /* playy-removebg-preview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "playy-removebg-preview.png"; path = "../../../../Downloads/playy-removebg-preview.png"; sourceTree = "<group>"; };
+		1D0F90BD263AF61E006AFFB9 /* pause12-removebg-preview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pause12-removebg-preview.png"; path = "../../../../Downloads/pause12-removebg-preview.png"; sourceTree = "<group>"; };
+		1D0F90D1263AF707006AFFB9 /* right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = right.png; path = ../../../../Downloads/right.png; sourceTree = "<group>"; };
+		1D0F90D5263AF712006AFFB9 /* pngfind.com-cirlce-png-1391483 copy 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pngfind.com-cirlce-png-1391483 copy 2.png"; path = "../../../../Downloads/pngfind.com-cirlce-png-1391483 copy 2.png"; sourceTree = "<group>"; };
+		1D0F90D8263B00E0006AFFB9 /* song.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = song.swift; sourceTree = "<group>"; };
+		1D0F90DB263B085F006AFFB9 /* titlecell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = titlecell.swift; sourceTree = "<group>"; };
+		1D0F90DF263B141D006AFFB9 /* PlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerViewController.swift; sourceTree = "<group>"; };
+		1D0F90E3263B29CF006AFFB9 /* right2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = right2.png; path = ../../../../Downloads/right2.png; sourceTree = "<group>"; };
+		1D0F90E4263B29CF006AFFB9 /* leftt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = leftt.png; path = ../../../../Downloads/leftt.png; sourceTree = "<group>"; };
+		1D0F90E9263B8A01006AFFB9 /* نسمه محجوب - يامحروسه _ Nesma Mahgoub - Ya Mahrosa (192 kbps).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "نسمه محجوب - يامحروسه _ Nesma Mahgoub - Ya Mahrosa (192 kbps).mp3"; path = "../../../../Downloads/نسمه محجوب - يامحروسه _ Nesma Mahgoub - Ya Mahrosa (192 kbps).mp3"; sourceTree = "<group>"; };
+		1D0F90EC263B8A09006AFFB9 /* nessma mahgoub.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "nessma mahgoub.jpeg"; path = "../../../../Downloads/nessma mahgoub.jpeg"; sourceTree = "<group>"; };
+		1D3F9266263A59B30035679F /* Flutes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flutes.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D3F9269263A59B30035679F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		1D3F926B263A59B30035679F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		1D3F926D263A59B30035679F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		1D3F9270263A59B30035679F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		1D3F9272263A59B40035679F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1D3F9275263A59B40035679F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		1D3F9277263A59B40035679F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D60757C263C7C0700D91845 /* sectioncell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sectioncell.swift; sourceTree = "<group>"; };
+		1DC0091F263BAC6B002F16F5 /* 3-02--removebg-preview (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "3-02--removebg-preview (1).png"; path = "../../../../Downloads/3-02--removebg-preview (1).png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D3F9263263A59B30035679F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1D0F9048263AF2F2006AFFB9 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				1DC0091F263BAC6B002F16F5 /* 3-02--removebg-preview (1).png */,
+				1D0F90EC263B8A09006AFFB9 /* nessma mahgoub.jpeg */,
+				1D0F90E3263B29CF006AFFB9 /* right2.png */,
+				1D0F90E4263B29CF006AFFB9 /* leftt.png */,
+				1D0F90AD263AF5C0006AFFB9 /* 1.jpg */,
+				1D0F90AC263AF5C0006AFFB9 /* 2.jpg */,
+				1D0F90B0263AF5C0006AFFB9 /* 3.png */,
+				1D0F90AB263AF5C0006AFFB9 /* backgound2.jpeg */,
+				1D0F90A8263AF5C0006AFFB9 /* background.png */,
+				1D0F90A9263AF5C0006AFFB9 /* carla.jpg */,
+				1D0F90AE263AF5C0006AFFB9 /* rami.jpeg */,
+				1D0F90AA263AF5C0006AFFB9 /* rola.jpeg */,
+				1D0F90AF263AF5C0006AFFB9 /* s.JPG */,
+				1D0F90BD263AF61E006AFFB9 /* pause12-removebg-preview.png */,
+				1D0F90BC263AF61E006AFFB9 /* playy-removebg-preview.png */,
+				1D0F90D1263AF707006AFFB9 /* right.png */,
+				1D0F90D5263AF712006AFFB9 /* pngfind.com-cirlce-png-1391483 copy 2.png */,
+			);
+			path = resources;
+			sourceTree = "<group>";
+		};
+		1D0F9049263AF2FF006AFFB9 /* a8ani */ = {
+			isa = PBXGroup;
+			children = (
+				1D0F90E9263B8A01006AFFB9 /* نسمه محجوب - يامحروسه _ Nesma Mahgoub - Ya Mahrosa (192 kbps).mp3 */,
+				1D0F904B263AF36A006AFFB9 /* 01. Amr Diab - Ya Ana Ya La.mp3 */,
+				1D0F908F263AF50D006AFFB9 /* 02. Amr Diab - Mahsoud.mp3 */,
+				1D0F9095263AF50E006AFFB9 /* 03. Amr Diab - Shokran.mp3 */,
+				1D0F9092263AF50D006AFFB9 /* 04. Amr Diab - Ayez Aamel Zayak.mp3 */,
+				1D0F9093263AF50D006AFFB9 /* 06. Amr Diab - Bethazr.mp3 */,
+				1D0F9090263AF50D006AFFB9 /* 09. Amr Diab - Ya Dalaao.mp3 */,
+				1D0F9091263AF50D006AFFB9 /* 10. Amr Diab - Min El Aasham.mp3 */,
+				1D0F908E263AF50D006AFFB9 /* 11. Amr Diab - Mahsoud (Oriental Remix).mp3 */,
+				1D0F9094263AF50D006AFFB9 /* 12. Amr Diab - El Gaw Gameel.mp3 */,
+				1D0F90A2263AF538006AFFB9 /* Amr Diab - Bahebo عمرو دياب - بحبه (192 kbps).mp3 */,
+				1D0F90A1263AF538006AFFB9 /* Amr Diab - Odam Merayetha عمرو دياب - قدام مرايتها (192 kbps).mp3 */,
+				1D0F909F263AF538006AFFB9 /* Amr Diab - Tehayrk عمرو دياب - تحيرك (192 kbps).mp3 */,
+				1D0F90A0263AF538006AFFB9 /* Amr Diab - Youm Talat عمرو دياب - يوم تلات (192 kbps).mp3 */,
+				1D0F9074263AF41A006AFFB9 /* Lessa Bahnelha.mp3 */,
+				1D0F9077263AF42D006AFFB9 /* ya fatenna.mp3 */,
+				1D0F9087263AF48B006AFFB9 /* hadal ahbek.mp3 */,
+				1D0F9088263AF48B006AFFB9 /* ya ghali.mp3 */,
+				1D0F9089263AF48B006AFFB9 /* ya ashekat el ward.mp3 */,
+			);
+			path = a8ani;
+			sourceTree = "<group>";
+		};
+		1D0F90DE263B13EC006AFFB9 /* Player View */ = {
+			isa = PBXGroup;
+			children = (
+				1D0F90DF263B141D006AFFB9 /* PlayerViewController.swift */,
+			);
+			path = "Player View";
+			sourceTree = "<group>";
+		};
+		1D3F925D263A59B30035679F = {
+			isa = PBXGroup;
+			children = (
+				1D3F9268263A59B30035679F /* Flutes */,
+			);
+			sourceTree = "<group>";
+		};
+		1D3F9267263A59B30035679F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D3F9266263A59B30035679F /* Flutes.app */,
+			);
+			name = Products;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		1D3F9268263A59B30035679F /* Flutes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3F9269263A59B30035679F /* AppDelegate.swift */,
+				1D3F926B263A59B30035679F /* SceneDelegate.swift */,
+				1D3F926D263A59B30035679F /* ViewController.swift */,
+				1D0F90D8263B00E0006AFFB9 /* song.swift */,
+				1D0F90DB263B085F006AFFB9 /* titlecell.swift */,
+				1D60757C263C7C0700D91845 /* sectioncell.swift */,
+				1D0F90DE263B13EC006AFFB9 /* Player View */,
+				1D3F926F263A59B30035679F /* Main.storyboard */,
+				1D3F9272263A59B40035679F /* Assets.xcassets */,
+				1D0F9048263AF2F2006AFFB9 /* resources */,
+				1D0F9049263AF2FF006AFFB9 /* a8ani */,
+				1D3F9274263A59B40035679F /* LaunchScreen.storyboard */,
+				1D3F9277263A59B40035679F /* Info.plist */,
+				1D3F9267263A59B30035679F /* Products */,
+			);
+			path = Flutes;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D3F9265263A59B30035679F /* Flutes */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D3F927A263A59B40035679F /* Build configuration list for PBXNativeTarget "Flutes" */;
+			buildPhases = (
+				1D3F9262263A59B30035679F /* Sources */,
+				1D3F9263263A59B30035679F /* Frameworks */,
+				1D3F9264263A59B30035679F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Flutes;
+			productName = flutes;
+			productReference = 1D3F9266263A59B30035679F /* Flutes.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1D3F925E263A59B30035679F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1240;
+				LastUpgradeCheck = 1240;
+				TargetAttributes = {
+					1D3F9265263A59B30035679F = {
+						CreatedOnToolsVersion = 12.4;
+					};
+				};
+			};
+			buildConfigurationList = 1D3F9261263A59B30035679F /* Build configuration list for PBXProject "Flutes" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1D3F925D263A59B30035679F;
+			productRefGroup = 1D3F9267263A59B30035679F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D3F9265263A59B30035679F /* Flutes */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D3F9264263A59B30035679F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D3F9276263A59B40035679F /* LaunchScreen.storyboard in Resources */,
+				1D0F90D6263AF712006AFFB9 /* pngfind.com-cirlce-png-1391483 copy 2.png in Resources */,
+				1D0F908C263AF48B006AFFB9 /* ya ashekat el ward.mp3 in Resources */,
+				1D0F90A3263AF538006AFFB9 /* Amr Diab - Tehayrk عمرو دياب - تحيرك (192 kbps).mp3 in Resources */,
+				1D0F90EA263B8A01006AFFB9 /* نسمه محجوب - يامحروسه _ Nesma Mahgoub - Ya Mahrosa (192 kbps).mp3 in Resources */,
+				1D0F90B3263AF5C0006AFFB9 /* rola.jpeg in Resources */,
+				1D0F9098263AF50E006AFFB9 /* 09. Amr Diab - Ya Dalaao.mp3 in Resources */,
+				1D0F9097263AF50E006AFFB9 /* 02. Amr Diab - Mahsoud.mp3 in Resources */,
+				1D0F9078263AF42D006AFFB9 /* ya fatenna.mp3 in Resources */,
+				1D0F908B263AF48B006AFFB9 /* ya ghali.mp3 in Resources */,
+				1D3F9273263A59B40035679F /* Assets.xcassets in Resources */,
+				1D0F908A263AF48B006AFFB9 /* hadal ahbek.mp3 in Resources */,
+				1D0F90B1263AF5C0006AFFB9 /* background.png in Resources */,
+				1D0F904C263AF36A006AFFB9 /* 01. Amr Diab - Ya Ana Ya La.mp3 in Resources */,
+				1D0F9099263AF50E006AFFB9 /* 10. Amr Diab - Min El Aasham.mp3 in Resources */,
+				1D0F9096263AF50E006AFFB9 /* 11. Amr Diab - Mahsoud (Oriental Remix).mp3 in Resources */,
+				1D0F90B7263AF5C0006AFFB9 /* rami.jpeg in Resources */,
+				1D0F90C0263AF61E006AFFB9 /* pause12-removebg-preview.png in Resources */,
+				1D0F90BF263AF61E006AFFB9 /* playy-removebg-preview.png in Resources */,
+				1D0F90B9263AF5C0006AFFB9 /* 3.png in Resources */,
+				1D0F90D2263AF707006AFFB9 /* right.png in Resources */,
+				1DC00920263BAC6B002F16F5 /* 3-02--removebg-preview (1).png in Resources */,
+				1D0F90B8263AF5C0006AFFB9 /* s.JPG in Resources */,
+				1D0F909D263AF50E006AFFB9 /* 03. Amr Diab - Shokran.mp3 in Resources */,
+				1D0F90E6263B29CF006AFFB9 /* leftt.png in Resources */,
+				1D0F90E5263B29CF006AFFB9 /* right2.png in Resources */,
+				1D0F90B6263AF5C0006AFFB9 /* 1.jpg in Resources */,
+				1D0F90A4263AF538006AFFB9 /* Amr Diab - Youm Talat عمرو دياب - يوم تلات (192 kbps).mp3 in Resources */,
+				1D0F90A5263AF538006AFFB9 /* Amr Diab - Odam Merayetha عمرو دياب - قدام مرايتها (192 kbps).mp3 in Resources */,
+				1D3F9271263A59B30035679F /* Main.storyboard in Resources */,
+				1D0F909B263AF50E006AFFB9 /* 06. Amr Diab - Bethazr.mp3 in Resources */,
+				1D0F90A6263AF538006AFFB9 /* Amr Diab - Bahebo عمرو دياب - بحبه (192 kbps).mp3 in Resources */,
+				1D0F90ED263B8A09006AFFB9 /* nessma mahgoub.jpeg in Resources */,
+				1D0F9075263AF41A006AFFB9 /* Lessa Bahnelha.mp3 in Resources */,
+				1D0F90B2263AF5C0006AFFB9 /* carla.jpg in Resources */,
+				1D0F90B5263AF5C0006AFFB9 /* 2.jpg in Resources */,
+				1D0F909C263AF50E006AFFB9 /* 12. Amr Diab - El Gaw Gameel.mp3 in Resources */,
+				1D0F90B4263AF5C0006AFFB9 /* backgound2.jpeg in Resources */,
+				1D0F909A263AF50E006AFFB9 /* 04. Amr Diab - Ayez Aamel Zayak.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D3F9262263A59B30035679F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D0F90D9263B00E0006AFFB9 /* song.swift in Sources */,
+				1D3F926E263A59B30035679F /* ViewController.swift in Sources */,
+				1D60757D263C7C0700D91845 /* sectioncell.swift in Sources */,
+				1D3F926A263A59B30035679F /* AppDelegate.swift in Sources */,
+				1D0F90DC263B085F006AFFB9 /* titlecell.swift in Sources */,
+				1D3F926C263A59B30035679F /* SceneDelegate.swift in Sources */,
+				1D0F90E0263B141D006AFFB9 /* PlayerViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		1D3F926F263A59B30035679F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1D3F9270263A59B30035679F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		1D3F9274263A59B40035679F /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1D3F9275263A59B40035679F /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1D3F9278263A59B40035679F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		1D3F9279263A59B40035679F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1D3F927B263A59B40035679F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = Q6WB27VYN2;
+				INFOPLIST_FILE = flutes/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ahmed-alsebaei.flutes";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		1D3F927C263A59B40035679F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = Q6WB27VYN2;
+				INFOPLIST_FILE = flutes/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ahmed-alsebaei.flutes";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D3F9261263A59B30035679F /* Build configuration list for PBXProject "Flutes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D3F9278263A59B40035679F /* Debug */,
+				1D3F9279263A59B40035679F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1D3F927A263A59B40035679F /* Build configuration list for PBXNativeTarget "Flutes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D3F927B263A59B40035679F /* Debug */,
+				1D3F927C263A59B40035679F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1D3F925E263A59B30035679F /* Project object */;
+}
